@@ -6,7 +6,7 @@
 
 # Author: Upkar Lidder (IBM)
 # Additional Authors:
-# Het Suvagiya
+# Darshan Ramavat
 
 # Input:
 # p, principal amount
@@ -17,6 +17,7 @@
 # simple interest = p*t*r
 
 #!/bin/bash
+# Script to calculate simple interest
 echo "Enter the principal:"
 read p
 echo "Enter rate of interest per year:"
